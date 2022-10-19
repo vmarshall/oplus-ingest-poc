@@ -1,4 +1,4 @@
-# OPLUS PARTNER INTEGRATOR
+# PARTNER INTEGRATOR
 
  This assumes you have a linux machine of osx box to deploy on. 
  This is a very rough set of instructions so YMMV.
